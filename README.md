@@ -14,4 +14,6 @@ $> ./philo number_of_philosophers time_to_die time_to_eat time_to_sleep number_o
 ```
 all times in miliseconds.
 
-* number_of_times_each_philosopher_must_eat is an optional argument: if all philosophers eat at least number_of_times_each_philosopher_must_eat times, the simulation will stop. If not specified, the simulation will stop with the death of a philosopher.
+number_of_times_each_philosopher_must_eat is an optional argument:
+
+If all philosophers eat at least number_of_times_each_philosopher_must_eat times, the simulation will stop. If not specified, the simulation will stop with the death of a philosopher.
