@@ -3,9 +3,9 @@ Learning proyect - 42 Málaga
 
 ## Description
 
-This project is about learning how threads work by precisely timing a group of philosophers on when to pick up forks and eat without dying from hunger
+This project is about learning how threads work by precisely timing a group of philosophers on when to pick up forks and eat without dying from hunger.
 
-The bonus is  done with processes and a semaphore instead of threads and mutexes
+The bonus is  done with processes and a semaphore instead of threads and mutexes.
 
 ## How to use
 
